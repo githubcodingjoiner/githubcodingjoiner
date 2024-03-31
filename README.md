@@ -1,3 +1,4 @@
+![logo](https://github.com/githubcodingjoiner/githubcodingjoiner/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Aditi Desai</h1>
 <h3 align="center">Skilled in machine learning, venturing into the world of NLP, and honing expertise in deep learning.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVuOGU2bTBjNWtra2Q3aGZmZG5sc3FpaWhzNWdrM3BuZDRlNDl4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
