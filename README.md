@@ -1,20 +1,15 @@
-![logo]([(https://github.com/githubcodingjoiner/githubcodingjoiner/blob/main/github-header-image%20(3).png)])
-<h1 align="center">Hi 👋, I'm Aditi Desai</h1>
-<h3 align="center">Skilled in machine learning, venturing into the world of NLP, and honing expertise in deep learning.</h3>
+![logo](https://github.com/githubcodingjoiner/githubcodingjoiner/blob/main/github-header-image%20(3).png)
+<h3 align="center">Skilled in machine learning, web development, venturing into the world of NLP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubcodingjoiner&label=Profile%20views&color=0e75b6&style=flat" alt="githubcodingjoiner" /> </p>
 
-- 🌱 I’m currently learning **NLP Models, Computer Vision**
+-🌱 I’m currently learning Full Stack Web Development and exploring Machine Learning.
 
-- 👯 I’m looking to collaborate on **Emotional Intelligence, NLP, ML and computer vision**
+-👯 I’m looking to collaborate on projects involving Web Development, Emotional Intelligence, NLP, and ML.
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning and Web Development**
 
 - 📫 How to reach me **aditidesai892@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/ueqgcio8js](https://flowcv.com/resume/ueqgcio8js)
-
-- ⚡ Fun fact **Augmented reality (AR) and virtual reality (VR) technologies are transforming entertainment, education, and business. Pokémon GO, an AR mobile game released in 2016, became a global phenomenon, showcasing the potential of AR for immersive gaming experiences.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
