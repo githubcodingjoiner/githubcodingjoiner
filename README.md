@@ -2,14 +2,22 @@
 <h3 align="center">Skilled in machine learning, web development, venturing into the world of NLP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubcodingjoiner&label=Profile%20views&color=0e75b6&style=flat" alt="githubcodingjoiner" /> </p>
-
--🌱 I’m currently learning Full Stack Web Development and exploring Machine Learning.
-
--👯 I’m looking to collaborate on projects involving Web Development, Emotional Intelligence, NLP, and ML.
-
-- 💬 Ask me about **Machine Learning and Web Development**
-
-- 📫 How to reach me **aditidesai892@gmail.com**
+<p align="center">
+  <div style="display: flex; align-items: center;">
+    <!-- Text Section -->
+    <div style="flex: 1; text-align: left;">
+      <p>-🌱 I’m currently learning Full Stack Web Development and exploring Machine Learning.</p>
+      <p>-👯 I’m looking to collaborate on projects involving Web Development, Emotional Intelligence, NLP, and ML.</p>
+      <p>-💬 Ask me about **Machine Learning and Web Development** </p>
+      <p>- 📫 How to reach me **aditidesai892@gmail.com**
+</p>
+    </div>
+    <!-- GIF Section -->
+    <div style="flex: 1; text-align: right;">
+      <img src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif" width="300" height="auto" />
+    </div>
+  </div>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
