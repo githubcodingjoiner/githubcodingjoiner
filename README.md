@@ -1,4 +1,4 @@
-![logo](https://github.com/githubcodingjoiner/githubcodingjoiner/blob/main/github-header-image.png)
+![logo]([(https://github.com/githubcodingjoiner/githubcodingjoiner/blob/main/github-header-image%20(3).png)])
 <h1 align="center">Hi 👋, I'm Aditi Desai</h1>
 <h3 align="center">Skilled in machine learning, venturing into the world of NLP, and honing expertise in deep learning.</h3>
 
